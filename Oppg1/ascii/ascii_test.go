@@ -1,20 +1,17 @@
 package ascii
 
-import (
-	"testing"
-	"unicode"
-)
+import "testing"
 
-func TestGreetingASCII(t *testing.T) {
-	a1 := GreetingASCII()
-	if isASCII(b) == false {
-		t.Errorf("FAIL")
+func TestGretingsASCII(t *testing.T) {
+	ascii := GreetingASCII()
+	if !(isASCII(ascii)) {
+		t.Fail()
 	}
 }
 
-func isASCII(a1 string) bool {
-	for _, i := range a1 {
-		if i > unicode.MaxASCII {
+func isASCII(s string) bool {
+	for _, C := range s {
+		if C > 127 {
 			return false
 		}
 	}

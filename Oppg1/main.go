@@ -6,5 +6,5 @@ import (
 
 func main() {
 	ascii.IterateOverASCIIStringLiteral(ascii.Ascii)
-	ascii.GreetingASCII()
+	ascii.TestGreetingASCII(ascii.Ascii)
 }
