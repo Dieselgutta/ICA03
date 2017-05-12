@@ -7,7 +7,7 @@ import (
 )
 
 func main() {
-	filename := "./files/lang01.txt"
+	filename := "./files/lang01.wl"
 	//  filename := "./files/lang02.wl"
 	//  filename := "./files/lang03.wl"
 
