@@ -36,9 +36,11 @@ func IterateOverASCIIStringLiteral(sl string) {
 // Funksjonen greetingASCII() returnerer en variabel av typen string,
 // som inneholder kun ASCII tegn (ikke utvidet ASCII).
 // Gjelder oppgave 1b
-func GreetingASCII() {
-	a := "\x22\x48\x65\x6C\x6C\x6F\x20\x3A\x2D\x29\x22"
+func GreetingASCII() string {
+	a := []byte("\x22\x48\x65\x6C\x6C\x6F\x20\x3A\x2D\x29\x22")
 	for i := 0; i < len(a); i++ {
 		fmt.Printf("%c", a[i])
 	}
+	retur := string(a)
+	return retur
 }

@@ -2,7 +2,7 @@ package ascii
 
 import "testing"
 
-func TestGretingsASCII(t *testing.T) {
+func TestGreetingsASCII(t *testing.T) {
 	ascii := GreetingASCII()
 	if !(isASCII(ascii)) {
 		t.Fail()
