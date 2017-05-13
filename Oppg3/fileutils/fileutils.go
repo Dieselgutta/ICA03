@@ -32,5 +32,4 @@ func fileToByteslice(filename string) []byte {
 		log.Fatal(err)
 	}
 	return byteSlice
-
 }
