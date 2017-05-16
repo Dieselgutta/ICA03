@@ -37,6 +37,8 @@ Koden for testen ligger i Github-repositoriet.
 
 
 
+
+
 # Oppgave 2
 
 
@@ -57,6 +59,9 @@ Vi fikk ikke ut € symbolet, i steden viser nettskyen et rektangulært symbol f
 
 # c)
 Koden for testen ligger oppe på Github-repositoriet. 
+
+
+
 
 # Oppgave 3
 
@@ -91,6 +96,9 @@ Vi har under her skrevet ut lang01.wl, lang02.wl og lang03.wl. Resultatene vi fi
 # c)
 
 ![Bilde10](https://scontent-arn2-1.xx.fbcdn.net/v/t34.0-12/18492971_10158500708685411_1635529287_n.png?oh=42d014d1469bbd5c651b367f81e31e9a&oe=591CE887)
+
+
+
 
 
 # Oppgave 4
