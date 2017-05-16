@@ -112,4 +112,4 @@ Ved å skrive Is bak filen får man Islandsk
 # b) 
 Ved å bruke U+23F0, får vi ut et klokke symbol, som vist i bildet.
 
-![Bilde]12(https://scontent-arn2-1.xx.fbcdn.net/v/t34.0-12/18554429_10158500709035411_308355515_n.png?oh=d3bbb23131eb08da2da95590f02b7b36&oe=591CE464)
+![Bilde12](https://scontent-arn2-1.xx.fbcdn.net/v/t34.0-12/18554429_10158500709035411_308355515_n.png?oh=d3bbb23131eb08da2da95590f02b7b36&oe=591CE464)
