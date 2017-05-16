@@ -1,2 +1,4 @@
 # ICA03
-Repository for ICA03 i is105 for Gruppe 10 - Dieselgutta
+
+
+*Deltakere: Simen Fredriksen, Stian Blankenberg, Jone Manneråk, Kristian Hagberg, Tarjei Taxerås og Rasmus Sørby*
