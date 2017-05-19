@@ -1,8 +1,10 @@
 # ICA03
 
 
-*Deltakere: Simen Fredriksen, Stian Blankenberg, Jone Manneråk, Kristian Hagberg, Tarjei Taxerås og Rasmus Sørby*
+* Deltakere: Simen Fredriksen, Stian Blankenberg, Jone Manneråk, Kristian Hagberg, Tarjei Taxerås og Rasmus Sørby
+* Nicolay Leknes og Tommy Nilsson deltok på første gjennomgang av ICA03. 
 
+NB: Dersom bildene ikke fungerer kan de bli funnet i levert PDF-fil. 
 
 # Oppgave 1
 
