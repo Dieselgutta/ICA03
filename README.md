@@ -87,7 +87,7 @@ Vi har under her skrevet ut lang01.wl, lang02.wl og lang03.wl. Resultatene vi fi
 
 
 “EF DA A3 D2 D3 CB 0A EF DA A3 D2 D3 CB C1 0A EF …” i unicode blir “u00ef, u00da, u00a3, u00d2, u00d3, u00cb, \n, u00ef, u00da, u00a3, u00d2, u00d3, u00cb, u00c1, \n, u00ef..”
- “FE FD 73 6B 61 72 0A FE FD 73 6B 61 72 61 6E 61 ...” i unicode blir “u00fe, u00fd, s, k, a, r, \n, u00fe, u00fd, s, k, a, r, n, a”.
+“FE FD 73 6B 61 72 0A FE FD 73 6B 61 72 61 6E 61 ...” i unicode blir “u00fe, u00fd, s, k, a, r, \n, u00fe, u00fd, s, k, a, r, n, a”.
 “F8 79 65 73 70 65 73 69 61 6C 69 73 74 65 6E 0A ...” i unicode blir “  u00f8, y, e, s, p, e, s, i, a, l, i, s, t, e, n, \n”.
 
 
